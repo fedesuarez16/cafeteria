@@ -14,7 +14,7 @@ const Hero = () => {
                 data-aos-once="true"
                 className="text-5xl sm:text-6xl lg:text-7xl font-bold"
               >
-                We serve the richest{" "}
+                Servimos el Mejor{" "}
                 <span
                   data-aos="zoom-out"
                   data-aos-delay="300"
@@ -22,7 +22,7 @@ const Hero = () => {
                 >
                   Coffee
                 </span>{" "}
-                in the city
+                de la ciudad
               </h1>
               <div data-aos="fade-up" data-aos-delay="400">
                 <button className="bg-gradient-to-r from-primary to-secondary border-2 border-primary hover:scale-105 duration-200 text-white py-2 px-4 rounded-full">
@@ -46,7 +46,7 @@ const Hero = () => {
                 data-aos="fade-left"
                 className="bg-gradient-to-r from-primary to-secondary p-3 rounded-xl absolute top-10 left-10"
               >
-                <h1 className="text-white">Hey Coder</h1>
+                <h1 className="text-white">Cafe de especialidad</h1>
               </div>
               <div
                 data-aos="fade-right"

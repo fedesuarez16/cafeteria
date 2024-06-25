@@ -76,7 +76,7 @@ const Testimonials = () => {
             data-aos="fade-up"
             className="text-center text-4xl font-bold font-cursive"
           >
-            Testimonials
+            Lo que dicen nuestros clientes..
           </h1>
         </div>
 

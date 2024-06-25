@@ -36,7 +36,7 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-3xl sm:text-4xl font-bold font-cursive"
                 >
-                  Premium Blend Coffee
+                  Cafe Premium Blend 
                 </h1>
                 <p
                   data-aos="fade-up"
@@ -51,7 +51,7 @@ const Banner = () => {
                   <div className="space-y-5">
                     <div data-aos="fade-up" className="flex items-center gap-3">
                       <GrSecure className="text-2xl h-12 w-12 shadow-sm p-3 rounded-full bg-red-100 " />
-                      <span>Premium Coffee</span>
+                      <span>Cafe Premium </span>
                     </div>
                     <div
                       data-aos="fade-up"
